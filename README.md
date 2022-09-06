@@ -2,8 +2,8 @@
 - 👀 I’m interested in C#,C++
 - 🌱 I’m currently learning JS/TS/Python
 - 📫 How to reach me 
--   venchass@yandex.ru
--   
+-   Mail:    venchass@yandex.ru
+-   Discord: VenchasS#9039
 
 <!---
 VenchasS/VenchasS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
