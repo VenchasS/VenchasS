@@ -4,6 +4,7 @@
 - 📫 How to reach me 
 -   Mail:    venchass@yandex.ru
 -   Discord: VenchasS#9039
+-   Telegram:@VenchasS
 
 <!---
 VenchasS/VenchasS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
