@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VenchasS
-- 👀 I’m interested in C#,C++
-- 🌱 I’m currently learning JS/TS/Python
+- 👀 I’m interested in C#,C++,TS
+- 🛠️ Frontend developer (Yandex)
 - 📫 How to reach me 
 -   Mail:    venchass@yandex.ru
 -   Discord: VenchasS#9039
