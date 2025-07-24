@@ -2,7 +2,6 @@
 - 👀 I’m interested in C#,C++,TS
 - 🛠️ Frontend developer (Yandex)
 - 📫 How to reach me 
--   Mail:    venchass@yandex.ru
 -   Discord: VenchasS#9039
 -   Telegram:@VenchasS
 
